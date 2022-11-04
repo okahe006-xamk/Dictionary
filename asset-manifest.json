@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Dictionary/static/js/main.22332386.js",
+    "main.js": "/Dictionary/static/js/main.062c5d7d.js",
     "index.html": "/Dictionary/index.html",
-    "main.22332386.js.map": "/Dictionary/static/js/main.22332386.js.map"
+    "main.062c5d7d.js.map": "/Dictionary/static/js/main.062c5d7d.js.map"
   },
   "entrypoints": [
-    "static/js/main.22332386.js"
+    "static/js/main.062c5d7d.js"
   ]
 }
